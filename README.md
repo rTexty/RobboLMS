@@ -1,16 +1,7 @@
 # Course Management System (LMS)
 
-A full-stack LMS application built with Go, PostgreSQL, and React.
+Выполненное тестовое задание для компании Robbo
 
-## Features
-- **Backend**: Go (Golang) REST API with PostgreSQL.
-- **Frontend**: React (Vite) with CSS styling.
-- **Infrastructure**: Docker & Docker Compose.
-- **Bonus**:
-    - [x] Docker Containerization
-    - [x] Unit Tests (Backend)
-    - [x] Author Field
-    - [x] Edit Course Functionality
 
 ## Prerequisites
 - Docker & Docker Compose
@@ -50,4 +41,3 @@ To run backend unit tests:
 cd backend
 go test ./...
 ```
-# RobboLMS
